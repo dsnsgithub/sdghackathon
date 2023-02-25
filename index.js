@@ -22,7 +22,7 @@ function knowledgeCheck() {
 		},
 		{
 			type: "recycle",
-			fileName: "Cardboard_Box.jpg",
+			fileName: "CardBoard_Box.jpg",
 			attribution: `<a href="https://commons.wikimedia.org/wiki/File:CardBoard_Box.jpg">Nameer56</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons`
 		},
 		{
