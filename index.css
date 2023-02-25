@@ -1,0 +1,30 @@
+* {
+	font-family: "Oxygen", sans-serif;
+	scroll-behavior: smooth;
+}
+
+@keyframes bounce {
+	0% {
+		transform: translateY(0%);
+	}
+
+	50% {
+		transform: translateY(-50%);
+	}
+
+	100% {
+		transform: translateY(0%);
+	}
+}
+
+.bounce {
+	position: relative;
+	animation: bounce 3s ease-in-out;
+	animation-iteration-count: infinite;
+}
+
+
+canvas {
+	border: 1px solid black;
+	cursor: none;
+}
