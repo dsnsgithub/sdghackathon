@@ -6,7 +6,7 @@
 One part of reducing the amount of greenhouse gases in the air is to recycle correctly.
 Less plastic created = less oil burned = better for the enviroment.
 
-Recycling not only helps CO2 emissions, it also improves the cleanliness of the enviroment around us.
+Recycling not only helps CO2 emissions, it also improves the cleanliness of the environment around us.
 Who doesn't want that?
 
 According to (https://www.americanprogress.org/article/energy-from-waste-can-help-curb-greenhouse-gas-emissions/):
