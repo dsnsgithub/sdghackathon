@@ -1,6 +1,7 @@
-# Coding for SDG 2023 Hackathon Submission
+# Coding for SDG 2023 Hackathon Submission 
+Topic: UN SDG #13 (Climate Action)
 
-## Topic: UN SDG #13 (Climate Action) 
+![screenshot](https://github.com/dsnsgithub/sdghackathon/blob/main/hackathon.PNG?raw=true)
 
 ## Intro: 
 One part of reducing the amount of greenhouse gases in the air is to recycle correctly.
