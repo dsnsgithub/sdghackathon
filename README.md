@@ -1,9 +1,13 @@
 # Coding for SDG 2023 Hackathon Submission 
-Topic: UN SDG #13 (Climate Action)
+
+## This project won Top 3 in the [Coding for SDG 2023 Hackathon](https://devpost.com/software/recycling-game-ijznvb?ref_content=my-projects-tab&ref_feature=my_projects).
+
 
 ![screenshot](https://github.com/dsnsgithub/sdghackathon/blob/main/hackathon.PNG?raw=true)
 
 ## Intro: 
+The topic of the hackathon was UN SDG #13 Climate Action.
+
 One part of reducing the amount of greenhouse gases in the air is to recycle correctly.
 Less plastic created = less oil burned = better for the enviroment.
 
